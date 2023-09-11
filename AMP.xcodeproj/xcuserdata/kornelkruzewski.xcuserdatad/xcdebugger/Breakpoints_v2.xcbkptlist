@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C615BF89-C43A-42C7-9F68-2DDF14C5A00C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F75724B-8CC5-4D4E-8028-E074A42ADD07"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AMP/API/APICalls/MatchsAPICall.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getEvents()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F75724B-8CC5-4D4E-8028-E074A42ADD07 - ab14f351b6e04452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;AMP.Matchs&gt;, Swift.Int) -&gt; () in closure #1 (Swift.Array&lt;AMP.Matchs&gt;, Swift.Int) -&gt; () in closure #1 () -&gt; () in AMP.MatchsAPICall.getEvents() -&gt; ()"
+                  moduleName = "AMP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kornelkruzewski/Documents/XCODE/AMP/AMP/API/APICalls/MatchsAPICall.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "415">
+               </Location>
+               <Location
+                  uuid = "6F75724B-8CC5-4D4E-8028-E074A42ADD07 - ab14f351b6e04452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;AMP.Matchs&gt;, Swift.Int) -&gt; () in closure #1 (Swift.Array&lt;AMP.Matchs&gt;, Swift.Int) -&gt; () in closure #1 () -&gt; () in AMP.MatchsAPICall.getEvents() -&gt; ()"
+                  moduleName = "AMP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kornelkruzewski/Documents/XCODE/AMP/AMP/API/APICalls/MatchsAPICall.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
